@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is My First Git Repository
 <br>
-Author - Krish Patel
+Author - Krish Patel(apna college)
